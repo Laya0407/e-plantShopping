@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
-import { addItem } from './CreateSlice'; // Adjust the import path as needed
+import { addItem } from './CreatSlice'; // Adjust the import path as needed
 
 const plantsArray = [
   {
